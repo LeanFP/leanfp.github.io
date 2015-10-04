@@ -1,2 +1,2 @@
 # LeanFP 
-Temporary langing page site for www.leanfp.com
+Temporary landing page for www.leanfp.com
